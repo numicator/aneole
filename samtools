@@ -9,6 +9,11 @@
 
 TMPL=".tmpl.bam"
 
+if [ ! "$1" ]; then
+  echo "nothing to do, exiting"
+  exit;
+fi
+
 if [[ $1 == "sort" ]]
 then
   cat ${TMPL} >$3.bam
