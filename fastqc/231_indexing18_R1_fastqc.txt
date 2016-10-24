@@ -1,0 +1,12 @@
+PASS	Basic Statistics	231_indexing18_R1.fastq
+PASS	Per base sequence quality	231_indexing18_R1.fastq
+PASS	Per tile sequence quality	231_indexing18_R1.fastq
+PASS	Per sequence quality scores	231_indexing18_R1.fastq
+PASS	Per base sequence content	231_indexing18_R1.fastq
+WARN	Per sequence GC content	231_indexing18_R1.fastq
+PASS	Per base N content	231_indexing18_R1.fastq
+WARN	Sequence Length Distribution	231_indexing18_R1.fastq
+PASS	Sequence Duplication Levels	231_indexing18_R1.fastq
+WARN	Overrepresented sequences	231_indexing18_R1.fastq
+PASS	Adapter Content	231_indexing18_R1.fastq
+PASS	Kmer Content	231_indexing18_R1.fastq

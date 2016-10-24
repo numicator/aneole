@@ -1,0 +1,12 @@
+PASS	Basic Statistics	638_indexing52_R1.fastq
+PASS	Per base sequence quality	638_indexing52_R1.fastq
+PASS	Per tile sequence quality	638_indexing52_R1.fastq
+PASS	Per sequence quality scores	638_indexing52_R1.fastq
+WARN	Per base sequence content	638_indexing52_R1.fastq
+FAIL	Per sequence GC content	638_indexing52_R1.fastq
+PASS	Per base N content	638_indexing52_R1.fastq
+WARN	Sequence Length Distribution	638_indexing52_R1.fastq
+PASS	Sequence Duplication Levels	638_indexing52_R1.fastq
+WARN	Overrepresented sequences	638_indexing52_R1.fastq
+PASS	Adapter Content	638_indexing52_R1.fastq
+PASS	Kmer Content	638_indexing52_R1.fastq

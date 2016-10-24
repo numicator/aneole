@@ -1,0 +1,12 @@
+PASS	Basic Statistics	751_indexing34_R2.fastq
+PASS	Per base sequence quality	751_indexing34_R2.fastq
+PASS	Per tile sequence quality	751_indexing34_R2.fastq
+PASS	Per sequence quality scores	751_indexing34_R2.fastq
+PASS	Per base sequence content	751_indexing34_R2.fastq
+WARN	Per sequence GC content	751_indexing34_R2.fastq
+PASS	Per base N content	751_indexing34_R2.fastq
+WARN	Sequence Length Distribution	751_indexing34_R2.fastq
+PASS	Sequence Duplication Levels	751_indexing34_R2.fastq
+WARN	Overrepresented sequences	751_indexing34_R2.fastq
+PASS	Adapter Content	751_indexing34_R2.fastq
+PASS	Kmer Content	751_indexing34_R2.fastq

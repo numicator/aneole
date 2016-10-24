@@ -1,0 +1,12 @@
+PASS	Basic Statistics	835_indexing17_R2.fastq
+PASS	Per base sequence quality	835_indexing17_R2.fastq
+PASS	Per tile sequence quality	835_indexing17_R2.fastq
+PASS	Per sequence quality scores	835_indexing17_R2.fastq
+PASS	Per base sequence content	835_indexing17_R2.fastq
+FAIL	Per sequence GC content	835_indexing17_R2.fastq
+PASS	Per base N content	835_indexing17_R2.fastq
+WARN	Sequence Length Distribution	835_indexing17_R2.fastq
+PASS	Sequence Duplication Levels	835_indexing17_R2.fastq
+WARN	Overrepresented sequences	835_indexing17_R2.fastq
+PASS	Adapter Content	835_indexing17_R2.fastq
+PASS	Kmer Content	835_indexing17_R2.fastq

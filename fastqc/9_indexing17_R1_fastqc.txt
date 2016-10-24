@@ -1,0 +1,12 @@
+PASS	Basic Statistics	9_indexing17_R1.fastq
+PASS	Per base sequence quality	9_indexing17_R1.fastq
+PASS	Per tile sequence quality	9_indexing17_R1.fastq
+PASS	Per sequence quality scores	9_indexing17_R1.fastq
+WARN	Per base sequence content	9_indexing17_R1.fastq
+WARN	Per sequence GC content	9_indexing17_R1.fastq
+PASS	Per base N content	9_indexing17_R1.fastq
+WARN	Sequence Length Distribution	9_indexing17_R1.fastq
+PASS	Sequence Duplication Levels	9_indexing17_R1.fastq
+WARN	Overrepresented sequences	9_indexing17_R1.fastq
+PASS	Adapter Content	9_indexing17_R1.fastq
+PASS	Kmer Content	9_indexing17_R1.fastq

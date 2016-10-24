@@ -1,0 +1,12 @@
+PASS	Basic Statistics	765_indexing8_R1.fastq
+PASS	Per base sequence quality	765_indexing8_R1.fastq
+PASS	Per tile sequence quality	765_indexing8_R1.fastq
+PASS	Per sequence quality scores	765_indexing8_R1.fastq
+PASS	Per base sequence content	765_indexing8_R1.fastq
+WARN	Per sequence GC content	765_indexing8_R1.fastq
+PASS	Per base N content	765_indexing8_R1.fastq
+WARN	Sequence Length Distribution	765_indexing8_R1.fastq
+PASS	Sequence Duplication Levels	765_indexing8_R1.fastq
+WARN	Overrepresented sequences	765_indexing8_R1.fastq
+PASS	Adapter Content	765_indexing8_R1.fastq
+PASS	Kmer Content	765_indexing8_R1.fastq

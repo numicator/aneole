@@ -1,0 +1,12 @@
+PASS	Basic Statistics	911_indexing3_R2.fastq
+PASS	Per base sequence quality	911_indexing3_R2.fastq
+PASS	Per tile sequence quality	911_indexing3_R2.fastq
+PASS	Per sequence quality scores	911_indexing3_R2.fastq
+PASS	Per base sequence content	911_indexing3_R2.fastq
+WARN	Per sequence GC content	911_indexing3_R2.fastq
+PASS	Per base N content	911_indexing3_R2.fastq
+WARN	Sequence Length Distribution	911_indexing3_R2.fastq
+PASS	Sequence Duplication Levels	911_indexing3_R2.fastq
+WARN	Overrepresented sequences	911_indexing3_R2.fastq
+PASS	Adapter Content	911_indexing3_R2.fastq
+PASS	Kmer Content	911_indexing3_R2.fastq

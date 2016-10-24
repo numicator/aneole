@@ -1,0 +1,12 @@
+PASS	Basic Statistics	651_indexing46_R2.fastq
+PASS	Per base sequence quality	651_indexing46_R2.fastq
+PASS	Per tile sequence quality	651_indexing46_R2.fastq
+PASS	Per sequence quality scores	651_indexing46_R2.fastq
+PASS	Per base sequence content	651_indexing46_R2.fastq
+FAIL	Per sequence GC content	651_indexing46_R2.fastq
+PASS	Per base N content	651_indexing46_R2.fastq
+WARN	Sequence Length Distribution	651_indexing46_R2.fastq
+PASS	Sequence Duplication Levels	651_indexing46_R2.fastq
+WARN	Overrepresented sequences	651_indexing46_R2.fastq
+PASS	Adapter Content	651_indexing46_R2.fastq
+PASS	Kmer Content	651_indexing46_R2.fastq

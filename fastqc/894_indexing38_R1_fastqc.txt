@@ -1,0 +1,12 @@
+PASS	Basic Statistics	894_indexing38_R1.fastq
+PASS	Per base sequence quality	894_indexing38_R1.fastq
+PASS	Per tile sequence quality	894_indexing38_R1.fastq
+PASS	Per sequence quality scores	894_indexing38_R1.fastq
+PASS	Per base sequence content	894_indexing38_R1.fastq
+WARN	Per sequence GC content	894_indexing38_R1.fastq
+PASS	Per base N content	894_indexing38_R1.fastq
+WARN	Sequence Length Distribution	894_indexing38_R1.fastq
+PASS	Sequence Duplication Levels	894_indexing38_R1.fastq
+WARN	Overrepresented sequences	894_indexing38_R1.fastq
+PASS	Adapter Content	894_indexing38_R1.fastq
+PASS	Kmer Content	894_indexing38_R1.fastq

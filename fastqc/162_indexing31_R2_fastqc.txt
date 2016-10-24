@@ -1,0 +1,12 @@
+PASS	Basic Statistics	162_indexing31_R2.fastq
+PASS	Per base sequence quality	162_indexing31_R2.fastq
+PASS	Per tile sequence quality	162_indexing31_R2.fastq
+PASS	Per sequence quality scores	162_indexing31_R2.fastq
+WARN	Per base sequence content	162_indexing31_R2.fastq
+WARN	Per sequence GC content	162_indexing31_R2.fastq
+PASS	Per base N content	162_indexing31_R2.fastq
+WARN	Sequence Length Distribution	162_indexing31_R2.fastq
+PASS	Sequence Duplication Levels	162_indexing31_R2.fastq
+WARN	Overrepresented sequences	162_indexing31_R2.fastq
+PASS	Adapter Content	162_indexing31_R2.fastq
+PASS	Kmer Content	162_indexing31_R2.fastq

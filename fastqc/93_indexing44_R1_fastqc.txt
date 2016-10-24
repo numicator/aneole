@@ -1,0 +1,12 @@
+PASS	Basic Statistics	93_indexing44_R1.fastq
+PASS	Per base sequence quality	93_indexing44_R1.fastq
+PASS	Per tile sequence quality	93_indexing44_R1.fastq
+PASS	Per sequence quality scores	93_indexing44_R1.fastq
+WARN	Per base sequence content	93_indexing44_R1.fastq
+FAIL	Per sequence GC content	93_indexing44_R1.fastq
+PASS	Per base N content	93_indexing44_R1.fastq
+WARN	Sequence Length Distribution	93_indexing44_R1.fastq
+PASS	Sequence Duplication Levels	93_indexing44_R1.fastq
+WARN	Overrepresented sequences	93_indexing44_R1.fastq
+PASS	Adapter Content	93_indexing44_R1.fastq
+PASS	Kmer Content	93_indexing44_R1.fastq

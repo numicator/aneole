@@ -1,0 +1,12 @@
+PASS	Basic Statistics	67_indexing20_R2.fastq
+PASS	Per base sequence quality	67_indexing20_R2.fastq
+PASS	Per tile sequence quality	67_indexing20_R2.fastq
+PASS	Per sequence quality scores	67_indexing20_R2.fastq
+WARN	Per base sequence content	67_indexing20_R2.fastq
+WARN	Per sequence GC content	67_indexing20_R2.fastq
+PASS	Per base N content	67_indexing20_R2.fastq
+WARN	Sequence Length Distribution	67_indexing20_R2.fastq
+PASS	Sequence Duplication Levels	67_indexing20_R2.fastq
+WARN	Overrepresented sequences	67_indexing20_R2.fastq
+PASS	Adapter Content	67_indexing20_R2.fastq
+PASS	Kmer Content	67_indexing20_R2.fastq

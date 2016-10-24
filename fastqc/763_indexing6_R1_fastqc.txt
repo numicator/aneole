@@ -1,0 +1,12 @@
+PASS	Basic Statistics	763_indexing6_R1.fastq
+PASS	Per base sequence quality	763_indexing6_R1.fastq
+PASS	Per tile sequence quality	763_indexing6_R1.fastq
+PASS	Per sequence quality scores	763_indexing6_R1.fastq
+PASS	Per base sequence content	763_indexing6_R1.fastq
+WARN	Per sequence GC content	763_indexing6_R1.fastq
+PASS	Per base N content	763_indexing6_R1.fastq
+WARN	Sequence Length Distribution	763_indexing6_R1.fastq
+PASS	Sequence Duplication Levels	763_indexing6_R1.fastq
+WARN	Overrepresented sequences	763_indexing6_R1.fastq
+PASS	Adapter Content	763_indexing6_R1.fastq
+PASS	Kmer Content	763_indexing6_R1.fastq

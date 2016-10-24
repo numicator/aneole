@@ -1,0 +1,12 @@
+PASS	Basic Statistics	689_indexing36_R2.fastq
+PASS	Per base sequence quality	689_indexing36_R2.fastq
+PASS	Per tile sequence quality	689_indexing36_R2.fastq
+PASS	Per sequence quality scores	689_indexing36_R2.fastq
+PASS	Per base sequence content	689_indexing36_R2.fastq
+WARN	Per sequence GC content	689_indexing36_R2.fastq
+PASS	Per base N content	689_indexing36_R2.fastq
+WARN	Sequence Length Distribution	689_indexing36_R2.fastq
+PASS	Sequence Duplication Levels	689_indexing36_R2.fastq
+WARN	Overrepresented sequences	689_indexing36_R2.fastq
+PASS	Adapter Content	689_indexing36_R2.fastq
+PASS	Kmer Content	689_indexing36_R2.fastq

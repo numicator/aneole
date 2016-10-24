@@ -1,0 +1,12 @@
+PASS	Basic Statistics	313b_indexing2_R1.fastq
+PASS	Per base sequence quality	313b_indexing2_R1.fastq
+PASS	Per tile sequence quality	313b_indexing2_R1.fastq
+PASS	Per sequence quality scores	313b_indexing2_R1.fastq
+WARN	Per base sequence content	313b_indexing2_R1.fastq
+WARN	Per sequence GC content	313b_indexing2_R1.fastq
+PASS	Per base N content	313b_indexing2_R1.fastq
+WARN	Sequence Length Distribution	313b_indexing2_R1.fastq
+PASS	Sequence Duplication Levels	313b_indexing2_R1.fastq
+WARN	Overrepresented sequences	313b_indexing2_R1.fastq
+PASS	Adapter Content	313b_indexing2_R1.fastq
+PASS	Kmer Content	313b_indexing2_R1.fastq

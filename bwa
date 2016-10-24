@@ -1,0 +1,14 @@
+#!/bin/bash
+
+####################################################################################################
+# Stud file to simulate bwa aligner                                                                #
+#  uses .tmpl.sam file in cwd                                                                      #
+#                                                                                                  #
+# Author: Marcin Adamski marcin.adamski@anu.edu.au                                                 #
+####################################################################################################
+
+TMPL=".tmpl.sam"
+
+N=`shuf -i 100-5000 -n 1`
+head -n $N ${TMPL}
+#echo "BWA $1 reference: $2; fastq files: $3 $4 printed $N alignments to standard output" >&2

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+####################################################################################################
+# Stud file to simulate some features of samtools                                                  #
+#  uses .tmpl.bam file in cwd                                                                      #
+#                                                                                                  #
+# Author: Marcin Adamski marcin.adamski@anu.edu.au                                                 #
+####################################################################################################
+
+TMPL=".tmpl.bam"
+
+if [[ $1 == "sort" ]]
+then
+  cat ${TMPL} >$3.bam
+else
+  cat ${TMPL}
+fi 

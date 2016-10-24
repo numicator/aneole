@@ -1,0 +1,12 @@
+PASS	Basic Statistics	863_indexing51_R2.fastq
+PASS	Per base sequence quality	863_indexing51_R2.fastq
+PASS	Per tile sequence quality	863_indexing51_R2.fastq
+PASS	Per sequence quality scores	863_indexing51_R2.fastq
+WARN	Per base sequence content	863_indexing51_R2.fastq
+FAIL	Per sequence GC content	863_indexing51_R2.fastq
+PASS	Per base N content	863_indexing51_R2.fastq
+WARN	Sequence Length Distribution	863_indexing51_R2.fastq
+PASS	Sequence Duplication Levels	863_indexing51_R2.fastq
+WARN	Overrepresented sequences	863_indexing51_R2.fastq
+PASS	Adapter Content	863_indexing51_R2.fastq
+PASS	Kmer Content	863_indexing51_R2.fastq

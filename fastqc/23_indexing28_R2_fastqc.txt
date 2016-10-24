@@ -1,0 +1,12 @@
+PASS	Basic Statistics	23_indexing28_R2.fastq
+PASS	Per base sequence quality	23_indexing28_R2.fastq
+PASS	Per tile sequence quality	23_indexing28_R2.fastq
+PASS	Per sequence quality scores	23_indexing28_R2.fastq
+WARN	Per base sequence content	23_indexing28_R2.fastq
+FAIL	Per sequence GC content	23_indexing28_R2.fastq
+PASS	Per base N content	23_indexing28_R2.fastq
+WARN	Sequence Length Distribution	23_indexing28_R2.fastq
+PASS	Sequence Duplication Levels	23_indexing28_R2.fastq
+WARN	Overrepresented sequences	23_indexing28_R2.fastq
+PASS	Adapter Content	23_indexing28_R2.fastq
+PASS	Kmer Content	23_indexing28_R2.fastq

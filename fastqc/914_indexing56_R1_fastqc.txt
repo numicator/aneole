@@ -1,0 +1,12 @@
+PASS	Basic Statistics	914_indexing56_R1.fastq
+PASS	Per base sequence quality	914_indexing56_R1.fastq
+PASS	Per tile sequence quality	914_indexing56_R1.fastq
+PASS	Per sequence quality scores	914_indexing56_R1.fastq
+WARN	Per base sequence content	914_indexing56_R1.fastq
+WARN	Per sequence GC content	914_indexing56_R1.fastq
+PASS	Per base N content	914_indexing56_R1.fastq
+WARN	Sequence Length Distribution	914_indexing56_R1.fastq
+PASS	Sequence Duplication Levels	914_indexing56_R1.fastq
+WARN	Overrepresented sequences	914_indexing56_R1.fastq
+PASS	Adapter Content	914_indexing56_R1.fastq
+PASS	Kmer Content	914_indexing56_R1.fastq

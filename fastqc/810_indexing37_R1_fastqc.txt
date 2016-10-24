@@ -1,0 +1,12 @@
+PASS	Basic Statistics	810_indexing37_R1.fastq
+PASS	Per base sequence quality	810_indexing37_R1.fastq
+PASS	Per tile sequence quality	810_indexing37_R1.fastq
+PASS	Per sequence quality scores	810_indexing37_R1.fastq
+WARN	Per base sequence content	810_indexing37_R1.fastq
+PASS	Per sequence GC content	810_indexing37_R1.fastq
+PASS	Per base N content	810_indexing37_R1.fastq
+WARN	Sequence Length Distribution	810_indexing37_R1.fastq
+PASS	Sequence Duplication Levels	810_indexing37_R1.fastq
+WARN	Overrepresented sequences	810_indexing37_R1.fastq
+PASS	Adapter Content	810_indexing37_R1.fastq
+PASS	Kmer Content	810_indexing37_R1.fastq
